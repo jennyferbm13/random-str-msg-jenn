@@ -1,0 +1,27 @@
+{
+  "name": "random-str-msg-jenn",
+  "version": "1.0.0",
+  "description": "Random string messages",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jennyferbm13/random-str-msg-jenn.git"
+  },
+  "keywords": [],
+  "author": "Jennyfer Belalcazar Manrique <jennyferbm13@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jennyferbm13/random-str-msg-jenn/issues"
+  },
+  "homepage": "https://github.com/jennyferbm13/random-str-msg-jenn#readme",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+  },
+  "preferGlobal": true,
+  "dependencies": {
+    "g": "^2.0.1"
+  }
+}
